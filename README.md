@@ -6,3 +6,5 @@ Galaxy Portfolio – A space‑themed personal portfolio built with React.js and
 <img width="1200" height="814" alt="Screenshot 2025-07-25 at 11 47 56 AM" src="https://github.com/user-attachments/assets/dd1e042e-fab5-4108-87ca-ea1bfd814d59" />
 <img width="1200" height="814" alt="Screenshot 2025-07-25 at 11 48 03 AM" src="https://github.com/user-attachments/assets/5bba22bc-e6b7-489f-8471-a357ba8bd563" />
 <img width="1200" height="814" alt="Screenshot 2025-07-25 at 11 48 18 AM" src="https://github.com/user-attachments/assets/c7358bbb-42e5-4a61-afa8-6c8fbc67df88" />
+<img width="1200" height="814" alt="Screenshot 2025-07-25 at 12 23 51 PM" src="https://github.com/user-attachments/assets/fee642e7-e84b-43a3-b23a-c6d28e2ec802" />
+<img width="1200" height="814" alt="Screenshot 2025-07-25 at 12 24 02 PM" src="https://github.com/user-attachments/assets/0dd01d18-1542-4470-a4d8-de6b6758816e" />
